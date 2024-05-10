@@ -1,3 +1,17 @@
+# High availability and scalability in the cloud
+
+## High availability
+High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
+Azure is a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of the service-level agreements (SLAs).
+
+## Scalability
+Scalability refers to the ability to adjust resources to meet demand.
+
+Scaling generally comes in two varieties: vertical and horizontal. 
+
+1.Vertical scaling is focused on increasing or decreasing the capabilities of resources. 
+2. Horizontal scaling is adding or subtracting the number of resources.
+
 # Reliability and predictability in the cloud
 
 ## Reliability
